@@ -1,0 +1,6 @@
+@CookIA_HostAddress = http://localhost:5262
+
+GET {{CookIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
